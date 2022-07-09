@@ -1,40 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3ccd6605-9d0c-42bd-95bf-4392fecb4582" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/public/Andrei_Zuev_CV_eng.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PortfolioConteiner/Home/Profile.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/fonts/Poppins-Black.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/fonts/Poppins-BlackItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/fonts/Poppins-Bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/fonts/Poppins-BoldItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/fonts/Poppins-ExtraBold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/fonts/Poppins-ExtraBoldItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/fonts/Poppins-ExtraLight.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/fonts/Poppins-ExtraLightItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/fonts/Poppins-Italic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/fonts/Poppins-Light.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/fonts/Poppins-LightItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/fonts/Poppins-Medium.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/fonts/Poppins-MediumItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/fonts/Poppins-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/fonts/Poppins-SemiBold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/fonts/Poppins-SemiBoldItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/fonts/Poppins-Thin.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/fonts/Poppins-ThinItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/fonts/bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/fonts/profilephoto.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/fonts/shape-bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+    <list default="true" id="3ccd6605-9d0c-42bd-95bf-4392fecb4582" name="Changes" comment="-add responsive for mobiles version">
+      <change afterPath="$PROJECT_DIR$/src/PortfolioConteiner/Home/Footer/Footer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PortfolioConteiner/Home/Footer/Footer.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PortfolioConteiner/Home/Home.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PortfolioConteiner/Home/Home.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PortfolioConteiner/Home/Profile/Profile.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PortfolioConteiner/PortfolioContainer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utilities/commonUtils.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PortfolioConteiner/Home/Profile.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/PortfolioConteiner/Home/Profile.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PortfolioConteiner/Home/Profile.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PortfolioConteiner/Home/Profile.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/PortfolioConteiner/Home/Profile/Profile.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PortfolioConteiner/Home/Profile.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/Home/shape-bg.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/Home/shape-bg.jpg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +25,7 @@
       <list>
         <option value="JavaScript File" />
         <option value="CSS File" />
+        <option value="TypeScript File" />
       </list>
     </option>
   </component>
@@ -87,6 +67,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Andrei_\Lessons1\udemy_portfolio\src\PortfolioConteiner\Home\Profile" />
       <recent name="C:\Users\Andrei_\Lessons1\udemy_portfolio\src\PortfolioConteiner\Home" />
     </key>
   </component>
@@ -114,8 +95,16 @@
       <option name="presentableId" value="Default" />
       <updated>1657017905200</updated>
       <workItem from="1657017906561" duration="215000" />
-      <workItem from="1657088507005" duration="21834000" />
+      <workItem from="1657088507005" duration="35047000" />
     </task>
+    <task id="LOCAL-00001" summary="-add responsive for mobiles version">
+      <created>1657171193442</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1657171193443</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -134,6 +123,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="-add responsive for mobiles version" />
+    <option name="LAST_COMMIT_MESSAGE" value="-add responsive for mobiles version" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
