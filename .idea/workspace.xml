@@ -1,19 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3ccd6605-9d0c-42bd-95bf-4392fecb4582" name="Changes" comment="-add responsive for mobiles version">
-      <change afterPath="$PROJECT_DIR$/src/PortfolioConteiner/Home/Footer/Footer.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PortfolioConteiner/Home/Footer/Footer.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PortfolioConteiner/Home/Home.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PortfolioConteiner/Home/Home.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PortfolioConteiner/Home/Profile/Profile.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PortfolioConteiner/PortfolioContainer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utilities/commonUtils.tsx" afterDir="false" />
+    <list default="true" id="3ccd6605-9d0c-42bd-95bf-4392fecb4582" name="Changes" comment="-fix some bag with rendering">
+      <change afterPath="$PROJECT_DIR$/src/utilities/ScrollService.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PortfolioConteiner/Home/Profile.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/PortfolioConteiner/Home/Profile/Profile.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PortfolioConteiner/Home/Profile.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/Home/shape-bg.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/Home/shape-bg.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PortfolioConteiner/Home/Profile/Profile.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/PortfolioConteiner/Home/Profile/Profile.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,7 +89,7 @@
       <option name="presentableId" value="Default" />
       <updated>1657017905200</updated>
       <workItem from="1657017906561" duration="215000" />
-      <workItem from="1657088507005" duration="35047000" />
+      <workItem from="1657088507005" duration="42651000" />
     </task>
     <task id="LOCAL-00001" summary="-add responsive for mobiles version">
       <created>1657171193442</created>
@@ -104,7 +98,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657171193443</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="-fix some bag with rendering">
+      <created>1657343759806</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1657343759807</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -124,7 +125,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="-add responsive for mobiles version" />
-    <option name="LAST_COMMIT_MESSAGE" value="-add responsive for mobiles version" />
+    <MESSAGE value="-fix some bag with rendering" />
+    <option name="LAST_COMMIT_MESSAGE" value="-fix some bag with rendering" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

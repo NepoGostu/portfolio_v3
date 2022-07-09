@@ -38,7 +38,7 @@ export default function Profile() {
                             <span className={'primary-text'}>
                                 {''}
                                 <h1>
-                                         Frontend developer
+                                    Frontend developer
                                 </h1>
                                 <span className={'profile-role-tagline'}>
                                               knack of building applications with front  operations.
