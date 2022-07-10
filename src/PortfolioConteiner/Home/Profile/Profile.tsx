@@ -29,7 +29,7 @@ export default function Profile() {
                     <div className={'profile-details-name'}>
                             <span className={'primary-text'}>
                                 {''}
-                                Hello,Iam
+                                Hello, I'm
                                 <span className={'highlighted-text'}> Andrei
                             </span>
                             </span>
