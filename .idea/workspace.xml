@@ -1,15 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3ccd6605-9d0c-42bd-95bf-4392fecb4582" name="Changes" comment="- create scroll functionality for button 'Hide me'">
-      <change afterPath="$PROJECT_DIR$/src/PortfolioConteiner/Home/Header/Header.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PortfolioConteiner/Home/Header/Header.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utilities/Animations.js" afterDir="false" />
+    <list default="true" id="3ccd6605-9d0c-42bd-95bf-4392fecb4582" name="Changes" comment="- create 'hamburger' for Header.js &#10;- create button 'home' for Header.js&#10;- add functional for slide hamburger">
+      <change afterPath="$PROJECT_DIR$/src/PortfolioConteiner/AboutMe/AboutMe.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PortfolioConteiner/AboutMe/AboutMe.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/AboutMe/choinas.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utilities/ScreenHeading/ScreenHeading.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utilities/ScreenHeading/ScreenHeading.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PortfolioConteiner/Home/Home.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/PortfolioConteiner/Home/Home.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PortfolioConteiner/Home/Profile/Profile.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/PortfolioConteiner/Home/Profile/Profile.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utilities/commonUtils.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/utilities/commonUtils.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,9 +18,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="CSS File" />
         <option value="TypeScript File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -49,7 +48,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/PortfolioConteiner/Home/Header" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/PortfolioConteiner/AboutMe" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
@@ -63,6 +62,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Andrei_\Lessons1\udemy_portfolio\src\PortfolioConteiner\AboutMe" />
       <recent name="C:\Users\Andrei_\Lessons1\udemy_portfolio\src\PortfolioConteiner\Home\Header" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -94,7 +94,7 @@
       <option name="presentableId" value="Default" />
       <updated>1657017905200</updated>
       <workItem from="1657017906561" duration="215000" />
-      <workItem from="1657088507005" duration="54535000" />
+      <workItem from="1657088507005" duration="60314000" />
     </task>
     <task id="LOCAL-00001" summary="-add responsive for mobiles version">
       <created>1657171193442</created>
@@ -117,7 +117,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657352348949</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="- create 'hamburger' for Header.js &#10;- create button 'home' for Header.js&#10;- add functional for slide hamburger">
+      <created>1657460522028</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1657460522028</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -139,7 +146,8 @@
     <MESSAGE value="-add responsive for mobiles version" />
     <MESSAGE value="-fix some bag with rendering" />
     <MESSAGE value="- create scroll functionality for button 'Hide me'" />
-    <option name="LAST_COMMIT_MESSAGE" value="- create scroll functionality for button 'Hide me'" />
+    <MESSAGE value="- create 'hamburger' for Header.js &#10;- create button 'home' for Header.js&#10;- add functional for slide hamburger" />
+    <option name="LAST_COMMIT_MESSAGE" value="- create 'hamburger' for Header.js &#10;- create button 'home' for Header.js&#10;- add functional for slide hamburger" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
